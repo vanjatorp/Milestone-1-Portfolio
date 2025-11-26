@@ -6,7 +6,7 @@ This is a portfolio website to showcase the developers projects as well as givin
 To have a platform where recruiters, developers and others can find them to get in touch to network, collaborate and offer opportunities. 
 Also for them/the user to see a sample of the skillset and potential of the developer. 
 
-A deployed link to the website can be found **[here](https://vtwin90.github.io/Milestone-1-Portfolio/)**.
+A deployed link to the website can be found **[here](https://vanjatorp.github.io/Milestone-1-Portfolio/)**.
 
 ![Mockup](assets/images/mockup.png)
 
@@ -260,7 +260,7 @@ CSS Code must pass through the **[W3C CSS Validator](https://jigsaw.w3.org/css-v
 ***
 
 ### Project Creation
-Navigate to the **[template](https://github.com/Code-Institute-Org/gitpod-full-template)** and click 'Use this template'. Put in Repository name (Milestone-1-Portfolio) and check the Include all branches checkbox. Then navigate to the new **[repository](https://github.com/VTwin90/Milestone-1-Portfolio)**.
+Navigate to the **[template](https://github.com/Code-Institute-Org/gitpod-full-template)** and click 'Use this template'. Put in Repository name (Milestone-1-Portfolio) and check the Include all branches checkbox. Then navigate to the new **[repository](https://github.com/vanjatorp/Milestone-1-Portfolio)**.
 
 The following commands were used for version control throughout the project:
 + ```git status``` (checks which files have been modified or added, and ready to be committed)
@@ -271,16 +271,16 @@ The following commands were used for version control throughout the project:
 ### **Deployment to Github pages**
 
 1. Push project to GitHub. Navigate and log into the GitHub site.
-2. Go to repositories and select the one associated to this project: **[Milestone 1 Portfolio](https://github.com/VTwin90/Milestone-1-Portfolio)**.
+2. Go to repositories and select the one associated to this project: **[Milestone 1 Portfolio](https://github.com/vanjatorp/Milestone-1-Portfolio)**.
 3. On the main repository, click "Settings" and scroll to "Github Pages".
 4. Under "Source" select "Master Branch" and click "Save".
 5. Click on the link to go to the live deployed page.
 
-The live link for the site is here: **[https://vtwin90.github.io/Milestone-1-Portfolio/](https://vtwin90.github.io/Milestone-1-Portfolio/)**
+The live link for the site is here: **[https://vanjatorp.github.io/Milestone-1-Portfolio/](https://vanjatorp.github.io/Milestone-1-Portfolio/)**
 
 ### **Create a local clone**
 
-1. Open GitHub and navigate to repository **[here](https://github.com/VTwin90/Milestone-1-Portfolio)**.
+1. Open GitHub and navigate to repository **[here](https://github.com/vanjatorp/Milestone-1-Portfolio)**.
 2. Click the Code drop down menu. 
 3. Options: 
 * Download the ZIP file, unpack locally and open with IDE.  
@@ -290,7 +290,7 @@ The live link for the site is here: **[https://vtwin90.github.io/Milestone-1-Por
 6. Clone of the project is created locally on your machine.  
 
 ### **Fork Project**
-1. Navigate to the GitHub Repository you want to **[fork](https://github.com/VTwin90/Milestone-1-Portfolio)**.
+1. Navigate to the GitHub Repository you want to **[fork](https://github.com/vanjatorp/Milestone-1-Portfolio)**.
 2. On the top right of the page under the header, click the fork button.
 3. Creates a duplicate of the full project in your GitHub Repository.
 
